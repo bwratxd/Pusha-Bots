@@ -29,6 +29,9 @@ const tagModedata = await regstats.findOne({ guildID: message.guild.id })
     if(!uye.user.username.includes(ayar.tag) && !uye.roles.cache.has("923331950905794568") && !uye.roles.cache.has("923536502875623455")) return message.lineReply(embed.setDescription(`${uye.toString()} isimli üyenin kullanıcı adında tagımız (\`${ayar.tag}\`) olmadığı, <@&${ayar.boosterRolu}>, <@&${ayar.vipRole}> Rolü olmadığı için isim değiştirmekden başka kayıt işlemi yapamazsınız.`));
     }
 ```
+#Arkadaslar Size Canvaslı Ekip-all Kodunuda Birakiyorum ekran Fotorafi Asagada Baka Bilirsiniz
+
+![image](https://cdn.discordapp.com/attachments/932379663408435270/935148400112963674/unknown.png)
 
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
