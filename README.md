@@ -1,3 +1,6 @@
+# Yenilik
+Yeni Botları Eklicem Hemde Bütün Guardlar Ve Welcome Bide Main Botumu 1 Yada 2güne Yüklemis Olurum Hepsini Star Atmayi Unutmayalım
+
 # Pusha Bots
 
 - Minik bir kaç hatası kaldı vaktim olup düzeltince değiştiririm starlarınızı bekliyorum .
