@@ -1,0 +1,22 @@
+{
+  "name": "pusha-temiz-guard",
+  "version": "0.0.2",
+  "description": "Pusha Temiz Guard",
+  "main": "Pusha.js",
+  "scripts": {
+    "start": "node pusha.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "Pusha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^5.13.11",
+    "request": "^2.88.2"
+  },
+  "keywords": []
+}
