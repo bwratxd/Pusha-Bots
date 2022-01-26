@@ -1,0 +1,34 @@
+{
+  "Bot": {
+    "Token": "",
+    "DestekçiToken": [""],
+    "MongoURL": "",
+    "Durum": "M A R İ N O 🖤 Pusha",
+    "Status": "M A R İ N O 🖤 Pusha",
+    "DestekçiDurum": "M A R İ N O 🖤 Pusha",
+    "DestekçiStatus": "M A R İ N O 🖤 Pusha",
+    "Owners": ["904104903532740648"],
+    "Prefix": ["b!"]
+  },
+
+  "Server": {
+    "GuildID": "923331950779990087"
+  },
+
+  "Channels":{
+    "VoiceChannelID": ""
+   },
+  
+  "Roles":{
+    "Booster": "923536502875623455",
+    "Jail": "923331950779990089",
+    "YetkiKapatılmayacakRoller": ["923331951006470177"]
+   },
+  
+  "Webhook": {
+    "LogWebhook": {
+      "ID": "924612103464189994",
+      "Token": "z8GgEYt8CbctBp5-COS0q31riWfbHAWUly04AcI5H-rKAr37QIZ2jYahnDfiGhHB95bC"
+    }
+  }
+}
