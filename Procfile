@@ -1,1 +1,0 @@
-worker node ozi.js
