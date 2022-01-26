@@ -1,7 +1,17 @@
-# Yenilik
-Yeni Botları Eklicem Hemde Bütün Guardlar Ve Welcome Bide Main Botumu 1 Yada 2güne Yüklemis Olurum Hepsini Star Atmayi Unutmayalım
+# Bilgilendirme 
 
-# Pusha Bots
+- Botların Hepsi Sağdan Soldan Alınmıs Ve Bizat Benim Ve Kendi Tarafimdan Editlenip Gelistirilip Size Sunuyorum Bütün Botlarımı
+- Botlarda Herhan Gibi Bir Hata Alırsanız Bana Ulasabilceniz Yerler instagram : pusha__23 Discord Nick : ✰ ' Pusha#1841 Discord Sunucum : discord.gg/marino / Botlar 25 Stardan Sonra Hepsi Paylasılcaktır Bilginize
+
+
+# Pusha Guard Bots
+
+- Sekme Guard Buttonlu Ve Hersey Vardir
+- Guard Kanal/Katagori/Rol/Emoji/Webhook/Url/Sagtık İsim Değisme/Sag Tık Kick/Sag Tık Ban/Ve Sunucu İlgili Bir Cok Sey Vardır/
+- Backup Otomatik Rol Silinçe Kendisi Olusturur Ve Otomatik Dağitir Kanal İzinlerini Ayarlar Ve Rol Kim Varsa Herkeşe Vermektedir
+- Chat Guard Küfür/Caps/Chat Limit/Etiket/ Gibi Daha Bir Çok Chate İlgili Korumalarımız Bulunmaktadır
+
+# Pusha Main Bots
 
 - Minik bir kaç hatası kaldı vaktim olup düzeltince değiştiririm starlarınızı bekliyorum .
 - Sizlerle geliştirmiş olduğum botlardan biriyle tanıştırmak istiyorum.. 
