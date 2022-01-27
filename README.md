@@ -11,6 +11,22 @@
 - Backup Otomatik Rol Silinçe Kendisi Olusturur Ve Otomatik Dağitir Kanal İzinlerini Ayarlar Ve Rol Kim Varsa Herkeşe Vermektedir
 - Chat Guard Küfür/Caps/Chat Limit/Etiket/ Gibi Daha Bir Çok Chate İlgili Korumalarımız Bulunmaktadır
 
+# Pusha Destek Bots
+
+- Destek Bots Olan Özelikler Yetkili Alim / Buttonlu Destek Ve Log Özeligi Bulunmaktadir
+
+# Pusha Logger Bots
+
+- Logger Bots Logger Dedimiz Bot Herseyi Loglayan Bota Denir Rol Silinince Log Kanalına Mesaj Atar Ban Yiyince Birisi Ve Bir Çok Özeligide Vardir
+
+# Pusha Welcome Bots
+
+- Welcome Bots Özel Ses Kaydı Birlikte Registerdeki Sese Giren Yeni üyelere Sesli Hosgeldin Söyler Ve Bir Yetkili Odaya Girincede Bir Yetkili Odaya Girdi der
+
+# Pusha Menu Bots
+
+- Menu Bots Rol Secim Menusu Gibi Renk Rol Almak İsteyenler Sadece Family Rolundaki Alabilir Ve Bir Cok Özelik Vardir 
+
 # Pusha Main Bots
 
 - Minik bir kaç hatası kaldı vaktim olup düzeltince değiştiririm starlarınızı bekliyorum .
