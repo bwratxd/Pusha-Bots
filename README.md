@@ -76,3 +76,9 @@ const tagModedata = await regstats.findOne({ guildID: message.guild.id })
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378752246235166/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380333821804564/unknown.png)
+
+
+
+# SEKME GUARD
+![image](https://cdn.discordapp.com/attachments/936186092040880188/936186097996791818/unknown.png)
+![image](https://cdn.discordapp.com/attachments/936186092040880188/936186686201823262/unknown.png)
