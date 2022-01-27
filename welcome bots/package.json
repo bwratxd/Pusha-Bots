@@ -1,0 +1,14 @@
+{
+    "name": "dc-welcome-bot",
+    "description": "Discord.js welcome botu",
+    "author": {
+        "name": "Tantoony"
+    },
+    "private": true,
+    "dependencies": {
+        "@discordjs/opus": "^0.6.0",
+        "discord.js": "^12.5.1",
+        "ffmpeg-static": "^4.2.7",
+        "opusscript": "0.0.7"
+    }
+}
