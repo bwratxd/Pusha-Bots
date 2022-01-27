@@ -1,0 +1,25 @@
+{
+  "name": "ozi-destek-bots",
+  "version": "0.0.1",
+  "description": "ozi destek bot.",
+  "main": "ozi.js",
+  "scripts": {
+    "start": "node pusha.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ozi",
+    "destekbots"
+  ]
+}
