@@ -1,0 +1,14 @@
+{
+  "name": "pusha-logger",
+  "version": "0.0.1",
+  "description": "pusha v12 Logger",
+  "main": "pusha.js",
+  "scripts": {
+    "test": "node pusha.js"
+  },
+  "author": "pusha",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}

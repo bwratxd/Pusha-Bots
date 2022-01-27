@@ -1,0 +1,29 @@
+{
+   "Settings": {
+       "Token": "TOKEN",
+       "VoiceID": "VOICECHANNELID",
+       "Durum": "M A R İ N O 🖤 Pusha",
+       "botDurum": "M A R İ N O 🖤 Pusha"
+
+   },
+   "Channels": {
+     "sunucugüncelleme": "935927458065166347",
+     "kanaloluşturma": "935927561739993118",
+     "kanaldüzenleme": "935927594224848906", 
+     "kanalsilme": "935927631797432400",
+     "banatma": "935927778191241236",
+     "bankaldırma": "935927810621579324", 
+     "üyerolgüncelleme": "935927843278446602", 
+     "botekleme": "935927894209871922",
+     "rololuşturma": "935927947427213393", 
+     "rolgüncelleme": "935928019099459634",
+     "rolsilme": "935928052955885568",
+     "webhook": "935928093783253012", 
+     "emojioluşturma": "935928119372705822",
+     "emojigüncelleme": "935928157947707412",
+     "emojisilme": "935928217645219890",
+     "mesajsilme": "935928254680940594",
+     "mesajdüzenleme": "935928282065539084"
+
+   }
+}

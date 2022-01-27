@@ -1,0 +1,33 @@
+{
+  "token": "",
+  "prefix": ["."],
+  "guildID": "923331950779990087",
+  "mongoUrl": "",
+  "owners": ["904104903532740648"],
+  "botSes": "923331953502085143",
+  "botDurum": "M A R İ N O 🖤 Pusha",
+  "registerPerm": "923331950918369407",
+
+  "dmMessages": true,
+
+  "messageDolar": 1,
+  "voiceDolar": 1,
+
+  "messageCount": 1,
+  "messageCoin": 1,
+  "voiceCount": 1,
+  "voiceCoin": 0.25,
+  "publicCoin": 2,
+  "inviteCount": 1,
+  "inviteCoin": 2,
+  "taggedCoin": 8,
+  "toplamsCoin": 1.25,
+  "yetkiCoin": 8,
+  
+  "ReklamLimit": 15,
+  "banlimit": 10,
+  "jaillimit": 15,
+  "warnlimit": 20,
+  "chatmutelimit": 20,
+  "voicemutelimit": 20
+}
