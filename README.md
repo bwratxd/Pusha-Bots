@@ -1,7 +1,7 @@
 # Bilgilendirme 
 
 - Botların Hepsi Sağdan Soldan Alınmıs Ve Bizat Benim Ve Kendi Tarafimdan Editlenip Gelistirilip Size Sunuyorum Bütün Botlarımı
-- Botlarda Herhan Gibi Bir Hata Alırsanız Bana Ulasabilceniz Yerler instagram : pusha__23 Discord Nick : ✰ ' Pusha#1841 Discord Sunucum : discord.gg/marino / Botlar 25 Stardan Sonra Hepsi Paylasılcaktır Bilginize
+- Botlarda Herhan Gibi Bir Hata Alırsanız Bana Ulasabilceniz Yerler instagram : pusha__23 Discord Nick : ✰ ' Pusha#7026 Discord Sunucum : discord.gg/marino / Botlar 25 Stardan Sonra Hepsi Paylasılcaktır Bilginize
 
 
 # Pusha Guard Bots
