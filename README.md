@@ -137,6 +137,11 @@ const oyunlar = {
 ![image](https://cdn.discordapp.com/attachments/932379663408435270/935148400112963674/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932379663408435270/935160295192678430/unknown.png)
 
+
+![image](https://cdn.discordapp.com/attachments/932377086205788290/944153907855253604/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/944154222008598598/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/944154060708261928/unknown.png)
+
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377418696638615/unknown.png)
