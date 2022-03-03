@@ -1,8 +1,10 @@
 # Bilgilendirme 
 
-- Botların Hepsi Sağdan Soldan Alınmıs Ve Bizat Benim Ve Kendi Tarafimdan Editlenip Gelistirilip Size Sunuyorum Bütün Botlarımı
-- Botlarda Herhan Gibi Bir Hata Alırsanız Bana Ulasabilceniz Yerler instagram : pusha__23 Discord Nick : ✰ ' Pusha#7026 Discord Sunucum : discord.gg/marino / Botlar 25 Stardan Sonra Hepsi Paylasılcaktır Bilginize
+- Botlar Sadece Buraya Ekran Fotorafları Ve Kurulumlarını Yazacam Botları Hic Bir Türlü Atılmıcaktır Githuba 
+- Botları İsteyenler Olursada Satıyorum Artık Yada İnvite Karsılıgı Veririrm
+- Butun Botları 120TL v12 hali Butun Botları v13 Halide 160TL Örnegin Sadece Botlar Nasıl Kurulur Yapilir Ve Ekran Fotorafları Eklicem Bukadar 
 
+- Benle İletisime Gecmek İsteyen Arkadaslarsa instagram : pusha__23 Discord Adresimse ✰ ' Pusha#0268 Ve Discord Sunucumda discord.gg/marino Beni Boyle Bula Bilirsiniz Neyse Hepinize İyi Günler Seviliyorsunuz
 
 # Pusha Guard Bots
 
@@ -135,26 +137,44 @@ const oyunlar = {
 #Arkadaslar Size Canvaslı Ve Normel Ekip-all Komutunu Birakiyorum ekran Fotorafi Asagada Baka Bilirsiniz
 
 ![image](https://cdn.discordapp.com/attachments/932379663408435270/935148400112963674/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932379663408435270/935160295192678430/unknown.png)
 
-
+# Rol Alma Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/944153907855253604/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932378439338561606/unknown.png)
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932378511161835530/unknown.png)
+
+# Market Ve Coin Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/944154222008598598/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/944154060708261928/unknown.png)
 
+# Owner Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
+![image](https://cdn.discordapp.com/attachments/945760991805866014/948916255614697493/unknown.png)
+
+# Kayıt Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377418696638615/unknown.png)
+
+# Terfi Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377740940836895/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377844305264680/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378283704733746/unknown.png)
+
+# Ceza Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378376822472704/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378439338561606/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378511161835530/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378589184278569/unknown.png)
-![image](https://cdn.discordapp.com/attachments/932377086205788290/932378752246235166/unknown.png)
+
+# Owo Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380333821804564/unknown.png)
+![image]https://cdn.discordapp.com/attachments/945760991805866014/948918754476179496/unknown.png)
+![image]https://cdn.discordapp.com/attachments/945760991805866014/948919025797308467/unknown.png)
+
+# Kullanıcı Paneli
+![image](https://cdn.discordapp.com/attachments/932377086205788290/932378589184278569/unknown.png)
+
+# Leaderboard
+![image](https://cdn.discordapp.com/attachments/945760991805866014/948929796497375253/unknown.png)
+![image](https://media.discordapp.net/attachments/945754309474271272/946380019448557578/unknown.png?width=631&height=473)
 
 
 
