@@ -67,13 +67,11 @@ Not: Aşağıdaki Gördünüz Yaş Ayaridir Eyerki 14 Yaş Altisa Kayit Edilmez 
 
 ![image](https://cdn.discordapp.com/attachments/932215403646681101/934076446790529065/unknown.png)
 
+
 Not: Aşağada Gördünüz Kod .e ve .k Kodudur Taglı Alim orda Gördiniz İki Rol İdsine Booster Ve Vip İdsi Girilcektir
-
-
-const tagModedata = await regstats.findOne({ guildID: message.guild.id })
+```js const tagModedata = await regstats.findOne({ guildID: message.guild.id })
     if (tagModedata && tagModedata.tagMode === true) {
-    if(!uye.user.username.includes(ayar.tag) && !uye.roles.cache.has("923331950905794568") && !uye.roles.cache.has("923536502875623455")) return message.lineReply(embed.setDescription(`${uye.toString()} isimli üyenin kullanıcı adında tagımız (\`${ayar.tag}\`) olmadığı, <@&${ayar.boosterRolu}>, <@&${ayar.vipRole}> Rolü olmadığı için isim değiştirmekden başka kayıt işlemi yapamazsınız.`));
-    } 
+    if(!uye.user.username.includes(ayar.tag) && !uye.roles.cache.has("923331950905794568") &&  !uye.roles.cache.has("923536502875623455")) ```
 
 Not: menuselcut 360 satırdaki
 if (!menu.clicker.member.roles.cache.get("family rol id") && !menu.clicker.member.roles.cache.get("booster rol id")) return await menu.reply.edit("Booster & Taglu üye olman gerek!"); 
