@@ -135,10 +135,6 @@ const oyunlar = {
 
 ```
 
-#Arkadaslar Size Canvaslı Ve Normel Ekip-all Komutunu Birakiyorum ekran Fotorafi Asagada Baka Bilirsiniz
-
-![image](https://cdn.discordapp.com/attachments/932379663408435270/935148400112963674/unknown.png)
-
 # Rol Alma Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/944153907855253604/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378439338561606/unknown.png)
