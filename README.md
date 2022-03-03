@@ -28,7 +28,7 @@
 
 # Pusha Main Bots
 
-Aşağıdaki canvası 70 80 star olursa paylaşırım <3 Not: 5 tasarım yaptım random seçip veri kartı oluşturuyor...
+ Not: 5 tasarım yaptım random seçip veri kartı oluşturuyor...
 
 ![image](https://user-images.githubusercontent.com/92666466/152353271-47cc6c6e-d838-478e-9c64-5d0584765351.png)
 
@@ -37,27 +37,6 @@ Aşağıdaki canvası 70 80 star olursa paylaşırım <3 Not: 5 tasarım yaptım
 - Invite, Moderasyon, Butonlu Register /Oto Register, Stats, Buton sistemleri.
 
 # Yapmanız gereken adımlar
-
-- emoji sunucu ayar vesaire ayarladıktan sonra baslatmaya geldik npm i yapıyoruz botunuz hazır esenlikle kalın.
-Bu botta emeği ve codeları bulunan Jaylen teşekürlerimi iletiyorum.
-
-
-Not: Yeni Eklediğim LeaderBoard Güncelleme 
-
-bak bı tane leaderboard kanal aç 
-oranın ıd alttakı 2 tanesıne gır
-
-    "ChatLeaderBoard": "915725828451606598",
-    "VoiceLeaderBoard": "915725828451606598", 
-
-leaderboard kanalında bot ownerı 2 tane .say atsın sırasıyla 
-bot 2 tane embedlı say komutu atar bu botun attıklarının mesaj ıdsı lazım bıze
-onların ıd yı sırayla alttakı 2 tane kısma gır
-
-    "ChatMsgListID": "928301336158691348",
-    "VoiceMsgListID": "928301342034907247",
-
-Thearkxd ve Jaylen'e codeları için tesekkürler...
 
 Not: Aşağıdaki hata için veya welcome mesaj sorunu için .ytag ekle sil yapmanız gerekmektedir.
 
