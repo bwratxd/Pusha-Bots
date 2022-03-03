@@ -69,9 +69,10 @@ Not: Aşağıdaki Gördünüz Yaş Ayaridir Eyerki 14 Yaş Altisa Kayit Edilmez 
 
 
 Not: Aşağada Gördünüz Kod .e ve .k Kodudur Taglı Alim orda Gördiniz İki Rol İdsine Booster Ve Vip İdsi Girilcektir
-```js const tagModedata = await regstats.findOne({ guildID: message.guild.id })
+
+const tagModedata = await regstats.findOne({ guildID: message.guild.id })
     if (tagModedata && tagModedata.tagMode === true) {
-    if(!uye.user.username.includes(ayar.tag) && !uye.roles.cache.has("923331950905794568") &&  !uye.roles.cache.has("923536502875623455")) ```
+    if(!uye.user.username.includes(ayar.tag) && !uye.roles.cache.has("923331950905794568") &&  !uye.roles.cache.has("923536502875623455")) 
 
 Not: menuselcut 360 satırdaki
 if (!menu.clicker.member.roles.cache.get("family rol id") && !menu.clicker.member.roles.cache.get("booster rol id")) return await menu.reply.edit("Booster & Taglu üye olman gerek!"); 
