@@ -2,7 +2,7 @@
 
 - Botlar Sadece Buraya Ekran Fotorafları Ve Kurulumlarını Yazacam Botları Hic Bir Türlü Atılmıcaktır Githuba 
 - Botları İsteyenler Olursada Satıyorum Artık Yada İnvite Karsılıgı Veririrm
-- Butun Botları 120TL v12 hali Butun Botları v13 Halide 160TL Örnegin Sadece Botlar Nasıl Kurulur Yapilir Ve Ekran Fotorafları Eklicem Bukadar 
+- Butun Botların Fiyati Söyliyorum Hemen v12 Butun Botlarım 150 TL V13 Butun Botlarım 200 TL Eyerki Github Paylaşmamı İstiyorsanız 30 Fork Ve 80 Star V12 Versiyonu Ve V13 Versiyonunu Paylasacam
 
 - Benle İletisime Gecmek İsteyen Arkadaslarsa instagram : pusha__23 Discord Adresimse ✰ ' Pusha#0268 Ve Discord Sunucumda discord.gg/marino Beni Boyle Bula Bilirsiniz Neyse Hepinize İyi Günler Seviliyorsunuz
 
