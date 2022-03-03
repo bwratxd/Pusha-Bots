@@ -75,8 +75,9 @@ const tagModedata = await regstats.findOne({ guildID: message.guild.id })
     if(!uye.user.username.includes(ayar.tag) && !uye.roles.cache.has("923331950905794568") &&  !uye.roles.cache.has("923536502875623455")) 
 
 Not: menuselcut 360 satırdaki
+```js
 if (!menu.clicker.member.roles.cache.get("family rol id") && !menu.clicker.member.roles.cache.get("booster rol id")) return await menu.reply.edit("Booster & Taglu üye olman gerek!"); 
-
+```
 
 Not: Aşağıdaki rol menü sisteminde sol kısımdakiler emoji id isterseniz öyle kalabilir o kısım beğenmezseniz değişirsiniz, sağ kısımlarındaki ise rol idleridir. Sırasıyla .menü <katılım/burc/oyun/renk/iliski/etkin> komutları kullanılırsa alttaki ss düzeninde olucaktır menü sistemi
 
