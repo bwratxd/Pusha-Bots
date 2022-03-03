@@ -149,8 +149,7 @@ const oyunlar = {
 
 # Owner Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377096884461618/unknown.png)
-
-![image](https://cdn.discordapp.com/attachments/945760991805866014/948916255614697493/unknown.png)
+![image](https://cdn.discordapp.com/attachments/945760987376648259/948931011943743560/unknown.png)
 
 # Kayıt Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932377204032159775/unknown.png)
