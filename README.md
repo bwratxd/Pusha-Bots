@@ -1,6 +1,5 @@
 # Bilgilendirme 
 
-- Botlar Sadece Buraya Ekran Fotorafları Ve Kurulumlarını Yazacam Botları Hic Bir Türlü Atılmıcaktır Githuba 
 - Botları İsteyenler Olursada Satıyorum Artık Yada İnvite Karsılıgı Veririrm
 - Butun Botların Fiyati Söyliyorum Hemen v12 Butun Botlarım 150 TL V13 Butun Botlarım 200 TL Eyerki Github Paylaşmamı İstiyorsanız 30 Fork Ve 80 Star V12 Versiyonu Ve V13 Versiyonunu Paylasacam 
 - Botları Sen Yap Derseniz Aylık 100Tl Vds Parası Ve V12 İstiyorsanız 90TL Bot Ücreti V13 İstiyorsanız 120TL Bot Ücreti
