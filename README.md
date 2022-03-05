@@ -23,8 +23,7 @@
 
 # Pusha Welcome Bots
 
-- Welcome Bots Özel Ses Kaydı Birlikte Registerdeki Sese Giren Yeni üyelere Sesli Hosgeldin Söyler Ve Bir Yetkili Odaya Girincede Bir Yetkili Odaya Girdi der
-
+- Welcome bots Hem Mongolu Hemde Komutludur Zaten Ekran Fotoraflarında Görürsünüz Komutlarda İstediginiz Gibi Ses Kayıdına Gecer
 
 # Pusha Main Bots
 
@@ -155,6 +154,9 @@ const oyunlar = {
 ![image](https://cdn.discordapp.com/attachments/945760991805866014/948929796497375253/unknown.png)
 ![image](https://media.discordapp.net/attachments/945754309474271272/946380019448557578/unknown.png?width=631&height=473)
 
+# WELCOME 
+![image](https://cdn.discordapp.com/attachments/945760991805866014/949477324905152542/unknown.png)
+![image](https://cdn.discordapp.com/attachments/945760991805866014/949477447538204792/unknown.png)
 
 
 # SEKME GUARD
