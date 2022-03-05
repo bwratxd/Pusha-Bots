@@ -1,3 +1,6 @@
+# Bilgilendirme Önemli Okuyun İste
+- Bana Hazır Alt Yapici Diyenlere Sesleniyorum Canım Arkadaslarım Madem Hazır Alt Yapiciyim Ben Zaten Diyorum Bunu Ama Sizin Alt Yapilarinizla Alakası Yok Bu Alt Yapilarin Niye Bana Bunu Acıklayın Aga Hayır Theark Yaptigi Botu Jaylen Editleyip Gelistirdi Bende Ondan Aldım Daha Cok Sey Ekledım Guardlar Zaten Kendim Yaptim Demiyorum Gelistirdim Diyorum Ve Alt Yapilarinizdan Daha Sağlam Kısaca Gidin Kendinizle Dalga Geçin Gidin Bulun Alt Yapilari Bukadar Basıt Cok Biliyorsunuz Ya Ego Yapiyonuz Ya İste Buyuzden Hic Bir SERVER Bot Yapmadım Ben Bugune Kadar Okadar Teklif Geldi Red Etim Bana Gelip Boş Edabeyat Yapmayın Genclik Ben Kendime Çalısırım Sadece Simdide Milete Calısacam Oda Yardım Amaçlı Sizin Gibi Ego Yapmıcam Kısaca 
+
 # Bilgilendirme 
 
 - Botları İsteyenler Olursada Satıyorum Artık Yada İnvite Karsılıgı Veririrm
