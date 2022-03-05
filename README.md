@@ -144,7 +144,8 @@ const oyunlar = {
 # Owo Sistemi
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380060466413708/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932380333821804564/unknown.png)
-
+![image]https://cdn.discordapp.com/attachments/945760991805866014/948918754476179496/unknown.png)
+![image]https://cdn.discordapp.com/attachments/945760991805866014/948919025797308467/unknown.png)
 
 # Kullanıcı Paneli
 ![image](https://cdn.discordapp.com/attachments/932377086205788290/932378589184278569/unknown.png)
